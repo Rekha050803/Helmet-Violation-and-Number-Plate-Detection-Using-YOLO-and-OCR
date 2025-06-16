@@ -37,6 +37,12 @@ A clean and interactive **Streamlit dashboard** allows users to test the system 
 
 ---
 
+## Dataset
+
+- Collected a curated dataset of 120 images from online sources, each containing detailed rider information such as helmet usage, rider presence, and clearly visible number plates. All images were manually annotated for training the model.
+
+---
+
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
