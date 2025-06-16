@@ -83,7 +83,7 @@ Demonstration of the Helmet Violation and Number Plate Detection system using YO
 
 ### 📸 Upload Image
 
-![Upload Image Output](Sample outputs/image.png)
+![Upload Image Output](https://github.com/Rekha050803/Helmet-Violation-and-Number-Plate-Detection-Using-YOLO-and-OCR/blob/8bb6b6ce49a3b9e9d4d66cee3d4442b4197872d8/Sample%20Outputs/image.png)
 
 > Detects riders, helmet violations, and extracts number plates from a single uploaded image using OCR.
 
@@ -91,7 +91,7 @@ Demonstration of the Helmet Violation and Number Plate Detection system using YO
 
 ### 🎞️ Upload Video
 
-![Upload Video Output](Sample outputs/video.png)
+![Upload Video Output](https://github.com/Rekha050803/Helmet-Violation-and-Number-Plate-Detection-Using-YOLO-and-OCR/blob/8bb6b6ce49a3b9e9d4d66cee3d4442b4197872d8/Sample%20Outputs/video.png)
 
 > Processes video frame-by-frame to detect helmet violations and extract number plates, displaying real-time detections.
 
@@ -99,7 +99,7 @@ Demonstration of the Helmet Violation and Number Plate Detection system using YO
 
 ### 🎥 Webcam Mode
 
-![Webcam Output](Sample outputs/webcam.png)
+![Webcam Output](https://github.com/Rekha050803/Helmet-Violation-and-Number-Plate-Detection-Using-YOLO-and-OCR/blob/8bb6b6ce49a3b9e9d4d66cee3d4442b4197872d8/Sample%20Outputs/webcam.png)
 
 > Activates your system webcam to perform live helmet and number plate detection with OCR.
 
