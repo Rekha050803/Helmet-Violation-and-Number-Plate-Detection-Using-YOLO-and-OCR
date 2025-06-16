@@ -83,7 +83,7 @@ Demonstration of the Helmet Violation and Number Plate Detection system using YO
 
 ### 📸 Upload Image
 
-![Upload Image Output](outputs/upload_image_example.jpg)
+![Upload Image Output](Sample outputs/image.png)
 
 > Detects riders, helmet violations, and extracts number plates from a single uploaded image using OCR.
 
@@ -91,7 +91,7 @@ Demonstration of the Helmet Violation and Number Plate Detection system using YO
 
 ### 🎞️ Upload Video
 
-![Upload Video Output](outputs/upload_video_example.gif)
+![Upload Video Output](Sample outputs/video.png)
 
 > Processes video frame-by-frame to detect helmet violations and extract number plates, displaying real-time detections.
 
@@ -99,7 +99,7 @@ Demonstration of the Helmet Violation and Number Plate Detection system using YO
 
 ### 🎥 Webcam Mode
 
-![Webcam Output](outputs/webcam_example.gif)
+![Webcam Output](Sample outputs/webcam.png)
 
 > Activates your system webcam to perform live helmet and number plate detection with OCR.
 
